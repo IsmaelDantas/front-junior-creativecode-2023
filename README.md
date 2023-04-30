@@ -57,16 +57,20 @@ To run this application you must have at least **Git** installed on your compute
 
 ### 1 - Clone the repository and enter the application folder
 ```sh
-git clone git@github.com:IsmaelDantas/front-junior-creativecode-2023.git && cd 
-front-junior-creativecode-2023
+git clone git@github.com:IsmaelDantas/front-junior-creativecode-2023.git
+```
+  
+### 2 - Enter the application folder
+```sh
+cd front-junior-creativecode-2023
 ```
 
-### 2 - Install the required dependencies
+### 3 - Install the required dependencies
 ```sh
 npm install
 ```
 
-### 3 - Access the application
+### 4 - Access the application
 ```sh
 npm start
 ```
@@ -84,16 +88,20 @@ Para rodar está aplicação é necessário ter pelo menos o **Git** instalado n
 
 ### 1 - Clone o repositório e entre na pasta da aplicação
 ```sh
-git clone git@github.com:IsmaelDantas/front-junior-creativecode-2023.git && cd 
-front-junior-creativecode-2023
+git clone git@github.com:IsmaelDantas/front-junior-creativecode-2023.git
+```
+  
+### 2 - Entre na pasta da aplicação
+```sh
+cd front-junior-creativecode-2023
 ```
 
-### 2 - Instale as depedências necessárias
+### 3 - Instale as depedências necessárias
 ```sh
 npm install
 ```
 
-### 3 - Acesse a aplicação
+### 4 - Acesse a aplicação
 ```sh
 npm start
 ```
