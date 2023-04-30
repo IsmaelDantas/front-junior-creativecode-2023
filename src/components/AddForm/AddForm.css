@@ -1,0 +1,42 @@
+.FormControl {
+  display: block;
+  width: 100%;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 10px;
+  transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.Margin {
+  margin-bottom: 0.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+  
+.Width {
+  max-width: 540px;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 767px) {
+  .FormControl {
+    font-size: 0.9rem;
+    padding: 0.25rem 0.5rem;
+    border-radius: 8px;
+  }
+  
+  .Margin {
+    margin-bottom: 0.25rem;
+  }
+  
+  .Width {
+    max-width: 100%;
+  }
+}

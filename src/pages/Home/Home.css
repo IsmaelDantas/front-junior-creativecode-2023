@@ -1,0 +1,12 @@
+.CenterContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.Label {
+  font-size: 12x;
+  font-weight: 600;
+  color: #676767;
+}
